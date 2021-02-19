@@ -16,4 +16,9 @@ yarn dev
 
 4 - Abra [http://localhost:3000/login](http://localhost:3000/login) com o seu navegador favorito e veja o resultado.
 
+5 - Informações de acesso válidas:
+
+Login: gustavo.vinicius@hotmail.com
+Senha: segredo
+
 
