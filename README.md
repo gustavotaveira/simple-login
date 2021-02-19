@@ -4,7 +4,7 @@ Esse é um projeto [Next.js](https://nextjs.org/) criado com [`create-next-app`]
 
 1 - Importe o projeto.
 
-2 - Execute [`npm install`] para instalar as dependências necessários.
+2 - Execute [`npm install`] para instalar as dependências necessárias.
 
 3 - Execute o o servidor de desenvolvimento:
 
