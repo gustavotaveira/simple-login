@@ -19,6 +19,7 @@ yarn dev
 5 - Informações de acesso válidas:
 
 Login: gustavo.vinicius@hotmail.com
+
 Senha: segredo
 
 
