@@ -162,6 +162,7 @@
 
     .container{
         text-align: center;
+ 	background-image: linear-gradient(to right, rgb(241, 241, 241) , rgb(247, 236, 253));
     }
 
     .imagem{
